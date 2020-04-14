@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Link, NavLink} from 'react-router-dom';
 import { Form, Container, Row,Col, FormGroup, Label, Input,Card,CardImg,ButtonToggle } from "reactstrap";
-import '../App.css';
 import Laptop from './laptop.jpeg';
 class Register extends Component {
   
